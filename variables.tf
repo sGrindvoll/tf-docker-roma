@@ -3,7 +3,7 @@
 
 ######     Docker      ############################################################################
 variable "docker-host" {
-  defoult = "ssh://tfcloud@hq.grindvoll.net:2816"
+  default = "ssh://tfcloud@hq.grindvoll.net:2816"
 }
 
 variable "docker-username" {
